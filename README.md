@@ -81,19 +81,15 @@ installation and it creates the database with one table. Table
 below describes the contents of the history
 table which provides the information about user's workout.
 
-:::
-  Name           Type     Description
-  -------------- -------- -----------------------------------------------------------------
-  date           long     Start time of the workout (epoch time)
-  duration       long     Duration of the workout
-  avgSpeed       double   Average speed of the user during the workout
-  activityType   String   Running, Walking or Mixed activity types.
-  distance       double   The distance in meters from the start to the end of the workout
-  note           String   Additional note from the user about the workout
-  goal           int      A distance in meters that is set as a goal for the workout
-
-  : Database Table "History"
-:::
+|     Name     |  Type  |                           Description                           |
+|:------------:|:------:|:---------------------------------------------------------------:|
+| date         | long   | Start time of the workout (epoch time)                          |
+| duration     | long   | Duration of the workout                                         |
+| avgSpeed     | double | Average speed of the user during the workout                    |
+| activityType | String | Running, Walking or Mixed activity types                        |
+| distance     | double | The distance in meters from the start to the end of the workout |
+| note         | String | Additional note from the user about the workout                 |
+| goal         | int    | A distance in meters that is set as a goal for the workout      |
 
 WorkoutProviderContract works as a helper class for every other classes
 which need to use the database because all the variables in this class
