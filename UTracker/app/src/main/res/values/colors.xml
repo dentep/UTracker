@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="backgroundColor">#151621</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="darker_white">#e4e4e4</color>
+
+    <color name="colorPrimary">#1EB980</color>
+    <color name="bin_red">#EEFF0000</color>
+    <color name="colorPrimaryDark">#045D56</color>
+    <color name="colorAccent">#58C596</color>
+    <color name="orange">#FF6859</color>
+    <color name="yellow">#FFCF44</color>
+    <color name="purple">#B15DFF</color>
+    <color name="blue">#72DEFF</color>
+    <color name="item_selector_color">#3CF1EBF1</color>
+    <color name="hint_color">#AD222222</color>
+    <color name="item_focused_color">#7F0000FF</color>
+    <color name="translucent_black">#80000000</color>
+    <color name="disabled_editText">#AAF1EBF1</color>
+
+    <!-- Colors for title -->
+    <color name="one">#478AEA</color>
+    <color name="two">#8446CC</color>
+    <color name="three">#F97C3C</color>
+    <color name="four">#FDB54E</color>
+    <color name="five">#64B678</color>
+
+    <color name="analytics_allTime">#AC478AEA</color>
+    <color name="analytics_thisWeek">#ACF97C3C</color>
+    <color name="analytics_thisMonth">#AC64B678</color>
+
+    <color name="bronze">#cd7f32</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="gold">#CFB53B</color>
+    <color name="unselected">#33000000</color>
+
+</resources>
