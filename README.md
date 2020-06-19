@@ -1,6 +1,6 @@
 ## **UTracker - Android Jogging Application**
 
-### How to Run
+### Run Project
 Download the repository and open the project in Android Studio. If necessary, install all necessary dependencies as AS suggests to you.
 
 ### Introduction
@@ -81,8 +81,8 @@ installation and it creates the database with one table. Table
 below describes the contents of the history
 table which provides the information about user's workout.
 
-|     Name     |  Type  |                           Description                           |
-|:------------:|:------:|:---------------------------------------------------------------:|
+| Name         | Type   | Description                                                     |
+|--------------|--------|-----------------------------------------------------------------|
 | date         | long   | Start time of the workout (epoch time)                          |
 | duration     | long   | Duration of the workout                                         |
 | avgSpeed     | double | Average speed of the user during the workout                    |
