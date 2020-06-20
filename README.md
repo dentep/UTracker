@@ -1,7 +1,7 @@
 ## **UTracker - Android Jogging Application**
 
 ### Run Project
-Download the repository and open the project in Android Studio. If necessary, install all necessary dependencies as AS suggests to you.
+Download the repository and open the project in Android Studio. If necessary, install all necessary dependencies as AS suggests to you. Create your own GoogleMaps and OpenWeatherMap API keys and include in your code.
 
 ### Introduction
 UTracker is a running application build for Android devices that includes the implementation of location services to track the running activities and content provider as user's database to display information (achievements, history). This README summarizes the running tracker application that was
